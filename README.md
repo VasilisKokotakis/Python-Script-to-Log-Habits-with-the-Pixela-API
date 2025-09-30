@@ -27,7 +27,7 @@ A **Python script** to track your daily habits and visualize them with [Pixela](
 
 ```bash
 git clone https://github.com/VasilisKokotakis/Python-Script-to-Log-Habits-with-the-Pixela-API.git
-cd pixela-habit-tracker
+cd Python-Script-to-Log-Habits-with-the-Pixela-API
 ```
 
 2. **Install dependencies**
